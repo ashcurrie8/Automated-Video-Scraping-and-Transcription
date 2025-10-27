@@ -7,7 +7,8 @@
 #              Whisper transcription model.
 # Author: Ashley Currie
 # Portfolio: https://github.com/ashcurrie8
-# Date: March 2025
+# Date: March 2025 - Completed for my final project in Advanced Political Methodology,
+#                    a course taken at Simon Fraser University for my PoliSci MA
 #
 # PREREQUISITES:
 # 1. Git: Required for Whisper installation
@@ -407,3 +408,4 @@ main <- function() {
 # Execute pipeline
 
 main()
+
