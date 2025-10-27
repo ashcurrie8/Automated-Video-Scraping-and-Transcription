@@ -13,6 +13,12 @@ This project provides a complete workflow for:
 
 Useful for social media analysis, content research, and qualitative data collection.
 
+## 🎓 Background
+
+This project originated as my final project for **Advanced Political Methodology**, one of the final courses I took as part of my Political Science MA program.
+
+What started as an academic project has been refined into a tool that bridges political science research needs with modern data engineering practices.
+
 ## 📋 Prerequisites
 
 Before using this pipeline, ensure you have the following installed:
