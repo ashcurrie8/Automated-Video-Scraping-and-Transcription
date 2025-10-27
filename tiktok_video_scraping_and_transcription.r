@@ -36,7 +36,7 @@
 WORKING_DIR <- "D:/R video analysis"
 
 # --- Apify API ---
-APIFY_ACTOR_ID <- "OtzYfK1ndEGdwWFKQ"
+APIFY_ACTOR_ID <- "OtzYfK1ndEGdwWFKQ" # This Actor ID is for this TikTok scraper: https://apify.com/clockworks/free-tiktok-scraper
 
 # --- Scraping Parameters ---
 HASHTAG <- "YOUR_KEYWORD-HERE"
@@ -405,4 +405,5 @@ main <- function() {
 }
 
 # Execute pipeline
+
 main()
